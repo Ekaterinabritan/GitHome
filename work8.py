@@ -1,4 +1,4 @@
-class Member:
+class M:
     def __str__(self):
         return 'Member("{}", "{}", "{}")'.format(self.last_name, self.name, self.phone_number)
 
